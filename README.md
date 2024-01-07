@@ -1,7 +1,7 @@
 # RainMaker
 
 ### Demo
-
+https://github.com/rielyw/RainMaker/assets/99292771/8a999382-0852-4ab0-a05c-bcdd86d29d79
 
 ### Description
 A game in which the goal is to fill the blue ponds to 100%. Seed the clouds with the RainMaker attachments on your helicopter by pressing 'space' when you are near a cloud. This will cause nearby ponds to being filling with rain water. Start your helicopter by pressing 'i', use the 'up' and 'down' arrow keys to increase and decrease flight speed, and turn with the 'left' and 'right' arrow keys. Land the helicopter by flying over the helipad and pressing 'i' to turn off the ignition. Make sure you land before you run out of fuel! Press 'r' to reset the game.
